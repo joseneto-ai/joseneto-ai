@@ -1,51 +1,45 @@
-# José Neto — Cloud Security & Infrastructure (Foundations)
+# José Neto — AI Automation Engineer & Founder @zNeto.AI
 
-I am building a strong foundation in **IT fundamentals, networking, operating systems, and cloud security**, with a focus on understanding **how systems work and how to secure them correctly**.
-
-This GitHub profile documents my learning journey in a structured and practical way, emphasizing **fundamental concepts, security-aware thinking, and clear technical documentation** rather than premature tool usage.
-
----
-
-## 📚 What this profile contains
-
-### 🖧 Networking Fundamentals
-Documentation covering core networking concepts and their relevance to cloud security, including:
-- IP addressing, CIDR, and subnetting
-- Network ports and transport protocols (TCP/UDP)
-- Application layer protocols and security implications
-- NAT, firewalls, traffic control, and defense-in-depth
-- Visual network diagrams to represent real-world cloud architectures
-
-### 💻 Operating Systems Fundamentals
-Foundational knowledge focused on how operating systems support secure cloud environments:
-- What an operating system is and its responsibilities
-- Program vs process concepts
-- System boot process
-- Basic resource management principles
+I build AI systems that eliminate operational bottlenecks and scale 
+business capacity without scaling headcount.
 
 ---
 
-## 🧠 Learning approach
+## ⚙️ What I Do
 
-- Fundamentals before tools  
-- Security-first mindset  
-- Clear mental models over memorization  
-- Documentation as proof of understanding  
-- Progressive learning: theory → architecture → practice  
-
-This profile intentionally reflects **foundational and entry-level knowledge**, aligned with a junior path toward Cloud Security and Infrastructure roles.
-
----
-
-## 🎯 Current focus
-- Strengthening Linux fundamentals for cloud environments  
-- Preparing for cloud platform studies (AWS / Azure)  
-- Building a solid base for identity, access, and network security concepts  
+- **AI Agent Development** — LLM-powered agents for lead qualification,
+  customer triage, and autonomous scheduling
+- **Workflow Automation** — Complex n8n pipelines connecting CRMs,
+  APIs, and business systems into unified intelligent layers
+- **Process Automation** — Python scripts and API integrations that
+  eliminate repetitive manual operations permanently
 
 ---
 
-## 🚀 Goal
+## 🛠️ Tech Stack
 
-To grow into a **Cloud Security Engineer** with a strong understanding of the underlying systems, networks, and security principles that support secure cloud architectures.
+**AI & Automation:** n8n · LLM APIs (OpenAI / Anthropic) · Prompt Engineering · AI Agents
 
-This repository represents **real progress, realistic scope, and continuous learning**.
+**Languages:** Python · Node.js · JavaScript · PHP · Java
+
+**Infrastructure:** REST APIs · WhatsApp Business API · Cloud Environments · Linux
+
+---
+
+## 🚀 Currently Building
+
+- Expanding **zNeto.AI** into new business verticals beyond healthcare
+- Documenting real AI automation architectures (see pinned repos below)
+- Open to **remote contracts** in AI Engineering & Automation Architecture
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Neto-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-neto-b88558398)
+[![Email](https://img.shields.io/badge/Email-jose.marciano1705@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jose.marciano1705@gmail.com)
+```
+
+2. No campo **"Commit message"** (mensagem do commit), apague o texto padrão e escreva:
+```
+refactor: rewrite profile README to reflect AI Engineering positioning
