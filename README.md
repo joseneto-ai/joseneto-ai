@@ -40,6 +40,3 @@ business capacity without scaling headcount.
 [![Email](https://img.shields.io/badge/Email-jose.marciano1705@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jose.marciano1705@gmail.com)
 ```
 
-2. No campo **"Commit message"** (mensagem do commit), apague o texto padrão e escreva:
-```
-refactor: rewrite profile README to reflect AI Engineering positioning
