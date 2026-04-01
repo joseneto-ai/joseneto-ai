@@ -38,5 +38,4 @@ business capacity without scaling headcount.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Neto-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-neto-b88558398)
 [![Email](https://img.shields.io/badge/Email-jose.marciano1705@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jose.marciano1705@gmail.com)
-```
 
