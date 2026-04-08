@@ -1,41 +1,32 @@
-# José Neto — AI Automation Engineer & Founder @zNeto.AI
-
-I build AI systems that eliminate operational bottlenecks and scale 
-business capacity without scaling headcount.
-
+# Hey, I'm José Neto 👋
+ 
+**Computer Engineering student at CEFET-MG** — currently focused on becoming an AI Engineer through real, hands-on work.
+ 
+I run [zNeto.AI](https://www.linkedin.com/in/jos%C3%A9-neto-b88558398/), where I build AI-powered automation for local businesses — agents that handle customer service, qualify leads, and automate scheduling via WhatsApp.
+ 
 ---
-
-## ⚙️ What I Do
-
-- **AI Agent Development** — LLM-powered agents for lead qualification,
-  customer triage, and autonomous scheduling
-- **Workflow Automation** — Complex n8n pipelines connecting CRMs,
-  APIs, and business systems into unified intelligent layers
-- **Process Automation** — Python scripts and API integrations that
-  eliminate repetitive manual operations permanently
-
+ 
+### 🔧 What I actually work with today
+ 
+- **AI & Automation:** n8n workflows, LLM APIs (OpenAI, Anthropic), prompt engineering
+- **Languages:** Python (learning in depth)
+- **Integrations:** WhatsApp Business API, REST APIs, webhooks
+ 
+### 📚 What I'm learning right now
+ 
+- Python fundamentals → CS50P (Harvard)
+- FastAPI, Docker, PostgreSQL (next)
+- Building AI systems with code instead of no-code tools
+ 
+### 🎯 Where I'm headed
+ 
+Transitioning from no-code AI integrator to **AI Engineer** — learning to build production-grade systems with Python, cloud infrastructure, and MLOps.
+ 
+I'm documenting the entire journey here. Every repo is something I built and understand.
+ 
 ---
-
-## 🛠️ Tech Stack
-
-**AI & Automation:** n8n · LLM APIs (OpenAI / Anthropic) · Prompt Engineering · AI Agents
-
-**Languages:** Python · Node.js · JavaScript · PHP · Java
-
-**Infrastructure:** REST APIs · WhatsApp Business API · Cloud Environments · Linux
-
----
-
-## 🚀 Currently Building
-
-- Expanding **zNeto.AI** into new business verticals beyond healthcare
-- Documenting real AI automation architectures (see pinned repos below)
-- Open to **remote contracts** in AI Engineering & Automation Architecture
-
----
-
-## 📬 Let's Connect
-
+ 
+### 📬 Let's connect
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Neto-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-neto-b88558398)
 [![Email](https://img.shields.io/badge/Email-jose.marciano1705@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jose.marciano1705@gmail.com)
-
